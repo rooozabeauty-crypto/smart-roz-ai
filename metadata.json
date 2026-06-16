@@ -1,0 +1,8 @@
+{
+  "name": "Smart Roz",
+  "description": "روبوت ذكي ومبدع في تعديل صور المنتجات، تصميم الهويات البصرية والثيمات، وصناعة فيديوهات ترويجية احترافية مدتها 30 ثانية.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
